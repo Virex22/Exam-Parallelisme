@@ -3,23 +3,6 @@
  * REMY Vincent
  */
 
-/*
- * En utilisant la class Task et la class Parralel, faire :
- * 1/ Calcul la somme des nombres de 1 -> 3000
- * 2/ une fois fini, faire en même temps :
- *  a/ Traiter 2 fichier Eval_file1.txt et Eval_file2.txt pour calculer leurs nombre de mots
- *  b/ Traiter 2 fichier Eval_file1.txt et Eval_file2.txt pour calculer le nombre de "Lorem"
- * 3/ Une fois fini afficher la somme total des 5 résultats 
- * ( somme 1-3000, mot fichier 1, mot fichier 2, lorem fichier 1, lorem fichier 2)
- */
-
-/*
- * Précision, il faut utiliser un maximum le paralelisme
- * Il faut aussi afficher le temps de tous ce traitement et le résultat final
- */
-
-
-
 using System;
 using System.Diagnostics;
 using System.IO;
